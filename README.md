@@ -1,4 +1,4 @@
-This is repository helps us to understand how to use Wire (Dependency Injection)
+This is repository helps us to understand how to use Wire (Dependency Injection) inspired from this [article](https://hellokoding.com/crud-restful-apis-with-go-modules-wire-gin-gorm-and-mysql/)
 
 ## Helpful resources
 
